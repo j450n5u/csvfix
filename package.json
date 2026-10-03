@@ -1,0 +1,8 @@
+{
+  "name": "csvfix",
+  "version": "1.0.0",
+  "description": "Normalise CSV files to UTF-8-with-BOM so they open without mojibake (亂碼) everywhere — safe Big5 detection with round-trip and plausibility proofs",
+  "bin": { "csvfix": "./csvfix.js" },
+  "license": "MIT",
+  "engines": { "node": ">=18" }
+}
