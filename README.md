@@ -47,10 +47,9 @@ files are skipped, so the tool is idempotent.
 
 ## The story
 
-I run a manufacturing group in Taiwan and I'm not an engineer — this was
-vibe-coded with an AI agent after one too many "the file you sent me is
-unreadable" mornings. It has been quietly normalising our shared folders on a
-cron job ever since, and nobody has complained about 亂碼 since.
+Built after one too many "the file you sent me is unreadable" mornings at a
+manufacturing group in Taiwan. It has been quietly normalising our shared
+folders on a cron job ever since, and nobody has complained about 亂碼 since.
 
 No dependencies. Node 18+.
 
